@@ -1,0 +1,3 @@
+[submodule "variables"]
+	path = variables
+	url = git@github.com:kavya-anbarasu/learn_rust/variables.git
