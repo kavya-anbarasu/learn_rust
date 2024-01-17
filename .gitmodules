@@ -1,6 +1,6 @@
 [submodule "variables"]
 	path = variables
-	url = git@github.com:kavya-anbarasu/learn_rust/.git
+	url = git@github.com:kavya-anbarasu/learn_rust/variables.git
 [submodule "guessing_game"]
 	path = guessing_game
 	url = git@github.com:kavya-anbarasu/learn_rust/guessing_game.git
